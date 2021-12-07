@@ -1,6 +1,6 @@
 # Progress Iterator example
 
-(as seen by Will Chrichton)
+(by Will Chrichton)
 
 This example implements:
 - Progress struct that wraps the iterator
